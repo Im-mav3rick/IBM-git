@@ -1,8 +1,8 @@
-echo " Enter the principle value: "
+echo " Enter principle:"
 read p
-echo " Enter the rate of interest:"
+echo " Enter Rate"
 read r
-echo " Enter the time period:"
+echo " Enter Time period:"
 read t
 s=`expr $p \* $t \* $r / 100`
 echo " The simple interest is "
