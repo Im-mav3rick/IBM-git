@@ -1,2 +1,2 @@
 # IBM-git
-A git repository for IBM Git  project
+A git repository for IBM Git to calculte Simple Intrest.  
